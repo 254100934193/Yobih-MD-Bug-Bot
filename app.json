@@ -1,6 +1,6 @@
 {
-  "name":"TKM-bot",
-  "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"Yobih-MD",
+  "description":"Deploy your Yobih-MD bot now.Brought to you by Mungai.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
   "repository":"https://github.com/Cod3Uchiha/TKM-bot",
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Cod3Uchiha"
+    "value": "Yobih"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "254743436105,254100934193"
   },
     "WARN_COUNT":
   {
