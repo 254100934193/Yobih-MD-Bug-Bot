@@ -1,5 +1,5 @@
 <p align="center">
-TKM bot v²
+Yobih-MDv²
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TKM-bot;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
@@ -18,7 +18,7 @@ TKM bot v²
   <a href="https://github.com/Cod3Uchiha/TKM-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Cod3Uchiha/TKM-bot?label=Watching&style=social"></a>
 </p>
 
- **TKM-bot Deployment Methods**
+ **Yobih-MD Deployment Methods**
 
 •FORK THIS REPO
  <br>
@@ -63,6 +63,10 @@ postgresql://tkm:Aqi6tqwyv5IwDHncTtVi5XtMGZvfndDJ@dpg-cqahogtds78s739sl81g-a.ore
 
 [not RECOMMENDED for now,don't even try it]
 
+Mungai will fix it soon
+
+-**Loves You**
+
 •Deploy.
     <br>
     <a href='https://replit.com/github/Cod3Uchiha/TKM-bot' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
@@ -87,12 +91,18 @@ _Termux Setup not recommended_
 **contributors**
 
 ```
-Lazak28•fixed Heroku ban
+Mungai Yobih•fixed Heroku ban
 ```
 ```
-Beltahmd•fixed sleeping problem
+Mungai•fixed sleeping problem
 ```
 
-* [🧑‍💻 Follow The Cod3Uchiha whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g)
+* [🧑‍💻 Follow The Yobih's whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g)
+
+* Call me Yobih
+
+* Brought to Earth by Love
+
+* -**Mungai loves you all**
 
 
