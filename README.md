@@ -1,6 +1,7 @@
 const { Yobih } = require('whatsapp-web.js');
 
-const client = new Client();
+const client = new Client(window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(shareMessage)}`, '_blank');
+);
 
 client.on('qr', (qr) => {
     // Generate and scan this code with your phone
@@ -18,3 +19,4 @@ client.on('message', msg => {
 });
 
 client.initialize();
+window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(shareMessage)}`, '_blank');
