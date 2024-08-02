@@ -280,7 +280,7 @@ setTimeout(() => {
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
             const danny = "2348098309204";
-            const tkm = "263785028126";
+            const tkm = "254743436105";
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [
                 servBot,
