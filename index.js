@@ -167,7 +167,7 @@ setTimeout(() => {
             logger: pino({
                 level: "silent"
             }),
-            browser: ["TKM-bot", "safari", "1.0.0"],
+            browser: ["Yobih-MD", "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -284,14 +284,14 @@ setTimeout(() => {
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [
                 servBot,
-                danny,
-                tkm,
+                yobih,
+                mungai,
                 conf.NUMERO_OWNER
             ].map(s => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
 
-            var dev = [danny, tkm]
+            var dev = [yobih, mungai]
                 .map(t => t.replace(/[^0-9]/g) + "@s.whatsapp.net")
                 .includes(auteurMessage);
             function repondre(mes) {
@@ -305,7 +305,7 @@ setTimeout(() => {
                     }
                 );
             }
-            console.log("\t [][]...{TKM-bot}...[][]");
+            console.log("\t [][]...{Yobih-MD }...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message comming from the group : " + nomGroupe);
@@ -671,7 +671,7 @@ setTimeout(() => {
                     const gifLink =
                         "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                     var sticker = new Sticker(gifLink, {
-                        pack: "TKM-bot",
+                        pack: "Yobih-MD",
                         author: conf.OWNER_NAME,
                         type: StickerTypes.FULL,
                         categories: ["🤩", "🎉"],
@@ -1205,11 +1205,11 @@ setTimeout(() => {
                                         url: "./media/chrono.webp"
                                     },
                                     caption:
-                                        "Hello, it's time to close the group; sayonara."
+                                        "Hello, it's time to close the group; Yobih-MD."
                                 });
                             },
                             {
-                                timezone: "Africa/Harare"
+                                timezone: "Africa/Nairobi"
                             }
                         );
                     }
@@ -1310,7 +1310,7 @@ setTimeout(() => {
                 if (conf.DP.toLowerCase() === "yes") {
                     let cmsg = `
 ╔───⬡
-┃ ┃⬡TKM bot⬡┃
+┃ ┃⬡Yobih-MD⬡┃
 ┃    Prefix : [ ${prefixe} ]
 ┃    Mode :${md}
 ┃    Total Commandes : ${evt.cm.length}︎
@@ -1320,10 +1320,10 @@ setTimeout(() => {
  report any. problems to the devs:)
  Thanks for supporting
  this project
- property of Cod3Uchiha
- property of Takudzwa Mlambo
- © Cod3Uchiha
- © Takudzwa Mlambo
+ property of Yobih-MD 
+ property of Mungai B
+ © Mungai
+ © Yobih-MD 
 ╚─────────────────···▸▸`;
                     await zk.sendMessage(zk.user.id, {
                         text: cmsg
