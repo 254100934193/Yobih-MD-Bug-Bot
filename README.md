@@ -79,7 +79,7 @@ _Termux Setup not recommended_
 
 <table>
   <tr>
-    <td>Danny</td>
+    <td>mungai</td>
     <td>Cod3Uchiha</td>
   </tr>
   <tr>
