@@ -3,6 +3,10 @@ Click the above link to pair with your Whatsapp
 
 
 
+https://dashboard.heroku.com/new-app
+click here to deploy
+
+
 <p align="center">
 YOBIH-MDv²
 </p>
